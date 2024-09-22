@@ -1,2 +1,1 @@
-# Szs
-Opk
+print("sistema de cambios")
